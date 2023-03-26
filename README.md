@@ -1,2 +1,4 @@
 # Grape-Maturity-Dataset
 Grape maturity estimation given measurements for Total Soluble Solids (TSS), Titratable Acidity (TA), and pH
+
+A grape’s maturity can be determined by three chemical indices, namely Total Soluble Solids (TSS), Titratable Acidity (TA), and pH which specifies the acidity or basicity of the grape. Berry samplings for the varieties Xinomavro, Syrah and Sauvignon blanc took place in 2019 on a weekly basis after veraison was completed and continued until harvest, depending on each variety. Samples of 200 berries were collected randomly within the vineyard per sampling date. The berries were pressed and the must was chemically analyzed for soluble solids (Brix) by refractometry (HI96841, HANNA), titratable acidity (g L-1 tartaric acid) and pH (HI2020-02, HANNA). Based on these measurements, experts determined the maturity of the grapes at each date.
